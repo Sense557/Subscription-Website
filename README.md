@@ -26,3 +26,9 @@ This Coming Soon website announces the launch of a new website. Users can subscr
 - Load the index.html file in your web browser.
 
 - Subscribe: Enter your email address in the provided field and click the submit button to subscribe.
+
+
+## Here are some screenshots of the app
+- ![Coming Soon Page](./screenshots/1.png)
+- ![Subscription Form] (./screenshots/2.png)
+- ![Thank You Message] (./screenshots/3.png)
